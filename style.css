@@ -1,0 +1,40 @@
+h1 {
+    font-size: 50px;
+    font-weight: 800;
+    color:red;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    color:lightsalmon;
+}
+
+.one, .two, .three {
+    font-size: 25px;
+}
+
+.two {
+    font-style: italic;
+    font-weight: 600;
+    color:green;
+}
+.imgbody, .imgrecipe {
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.imgbody {
+    width: 600px;
+}
+
+.imgrecipe {
+    width: 500px;
+}
+
+.recipes {
+    font-size: 30px;
+    text-align: center;
+}
